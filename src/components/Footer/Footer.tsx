@@ -40,7 +40,7 @@ export const Footer = () => {
         <li className="flex gap-1 items-center">
           <FaGithub />
           <a
-            href="https://github.com/[yanchaliAnkitha65]"
+            href="https://github.com/yanchaliAnkitha65"
             target="_blank"
             rel="noopner noreferrer"
           >
